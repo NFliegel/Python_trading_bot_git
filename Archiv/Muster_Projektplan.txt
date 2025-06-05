@@ -1,0 +1,9 @@
+Muster erzeugen:
+
+Spalten: [Date, Time, Close]
+
+Aufbau: Wiederholungen aus 
+1. Rauschen in Stärke Y
+2. Muster mit dern Werten [a, b, c, d, ...]
+3. Trend mit den Werten [ e, f, g, h, ...]
+
