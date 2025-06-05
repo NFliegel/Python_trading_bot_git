@@ -1,0 +1,2 @@
+# Python_trading_bot_git
+Python_trading_bot_git
